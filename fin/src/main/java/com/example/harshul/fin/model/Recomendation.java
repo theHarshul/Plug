@@ -1,4 +1,4 @@
-package com.example.harshul.fin;
+package com.example.harshul.fin.model;
 
 /**
  * Created by Harshul on 8/30/2015.

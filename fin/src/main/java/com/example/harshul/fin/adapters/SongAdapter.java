@@ -1,4 +1,4 @@
-package com.example.harshul.fin;
+package com.example.harshul.fin.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,6 +7,10 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.CheckBox;
 import android.widget.TextView;
+
+import com.example.harshul.fin.activities.MainActivity;
+import com.example.harshul.fin.R;
+import com.example.harshul.fin.model.Song;
 
 import java.util.List;
 

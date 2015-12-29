@@ -1,4 +1,4 @@
-package com.example.harshul.fin;
+package com.example.harshul.fin.adapters;
 
 /**
  * Created by Harshul on 8/30/2015.
@@ -11,7 +11,11 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
+import com.example.harshul.fin.R;
+
 import java.util.List;
+
+import com.example.harshul.fin.model.Recomendation;
 
 // here's our beautiful adapter
 public class ArrayAdapterItem extends ArrayAdapter<Recomendation> {

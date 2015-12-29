@@ -1,4 +1,4 @@
-package com.example.harshul.fin;
+package com.example.harshul.fin.activities;
 
 import android.app.FragmentManager;
 import android.os.Bundle;
@@ -9,6 +9,10 @@ import android.view.MenuItem;
 import android.widget.CompoundButton;
 
 import java.util.ArrayList;
+
+import com.example.harshul.fin.fragments.MainActivityFragment;
+import com.example.harshul.fin.R;
+import com.example.harshul.fin.model.Song;
 
 public class MainActivity extends ActionBarActivity implements android.widget.CompoundButton.OnCheckedChangeListener{
 

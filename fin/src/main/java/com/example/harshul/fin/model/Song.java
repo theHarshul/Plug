@@ -1,4 +1,4 @@
-package com.example.harshul.fin;
+package com.example.harshul.fin.model;
 
 import java.util.UUID;
 

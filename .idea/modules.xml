@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Plug.iml" filepath="$PROJECT_DIR$/Plug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fin/fin.iml" filepath="$PROJECT_DIR$/fin/fin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/songreader/songreader.iml" filepath="$PROJECT_DIR$/songreader/songreader.iml" />
+    </modules>
   </component>
 </project>

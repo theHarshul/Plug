@@ -1,4 +1,4 @@
-package com.example.harshul.fin;
+package com.example.harshul.fin.fragments;
 
 import android.annotation.SuppressLint;
 import android.app.Fragment;
@@ -15,10 +15,15 @@ import android.view.ViewGroup;
 import android.widget.CompoundButton;
 import android.widget.ListView;
 
+import com.example.harshul.fin.R;
+import com.example.harshul.fin.adapters.SongAdapter;
+
 import java.io.File;
 import java.io.FileDescriptor;
 import java.io.FileInputStream;
 import java.util.ArrayList;
+
+import com.example.harshul.fin.model.Song;
 
 
 /**
